@@ -4,11 +4,23 @@ In this app, I will be displaying my Full Stack Developer projects that I worked
 
 # Technologies
 Here are the technologies sed in this app:
+
+
     (*Handlebars)
+
+
     (*CSS)
+
+
     (*Node)
+
+
     (*Jquery)
+
+
     (*MySQL)
+
+
     (*Dependencies: Express, Node, Passport)
 
 # Purpose
@@ -16,5 +28,14 @@ THe purpose for this app, to challenge myself by creating this application and a
 
 # Contact
 If you have any questions or want to chat here is my contact information:
+
+Latifah Lillie
+
+
+Email: queen1892@gmail.com
+
+
+Linkedin: https://www.linkedin.com/in/latifah-lillie/
+
 
 
